@@ -1,11 +1,5 @@
 <p align="left">
-  <a href="https://www.linkedin.com/in/cwalton1335" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<a href="https://www.youtube.com/channel/UCYesptHRU1QZ2pHZkAqdQTw/videos" target="_blank"><img alt="YouTube" title="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-
-<a href="https://www.buymeacoffee.com/calton1335" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
-
-<a href="https://www.udemy.com/course/#" target="_blank"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy"></a>
+  <a href="https://www.linkedin.com/in/cwalton1335" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://www.youtube.com/channel/UCYesptHRU1QZ2pHZkAqdQTw/videos" target="_blank"><img alt="YouTube" title="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a><a href="https://www.buymeacoffee.com/calton1335" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a><a href="https://www.udemy.com/course/#" target="_blank"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy"></a>
 
 </p>
 
@@ -59,21 +53,15 @@ Represents a course related to an author.
 - **author**: ForeignKey - Link to the `Author` model, establishes a relationship.
 - **created_at**: DateTimeField - Timestamp when the course record was created.
 
-[Check Demo](http://djangogreatkart.com/)
-
-_Learn how to build these [complex functionalities from the scratch](https://www.udemy.com/course/django-ecommerce-project-based-course-python-django-web-development/?referralCode=BAD74EA99BCC2E331D13)_
-
 <p align="left">
   <a href="https://www.udemy.com/course/django-ecommerce-project-based-course-python-django-web-development/?referralCode=BAD74EA99BCC2E331D13" target="_blank"><img src="https://img.shields.io/badge/Udemy-5624D0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy"></a>
-</p>
-
-<img src="https://github.com/dev-rathankumar/greatkart-pre-deploy/blob/main/media/greatkart-screenshot.jpg">
+</p><img src="https://github.com/dev-rathankumar/greatkart-pre-deploy/blob/main/media/greatkart-screenshot.jpg">
 
 # Setup Instructions
 
 Follow these steps to set up the project locally:
 
-1. Clone the repository `git clone https://github.com/cwalton133/Google_Auth_JWT.git`
+1. Clone the repository `git clone [https://github.com/cwalton133/Google_Auth_JWT.git/](https://github.com/cwalton133/Google_Auth_JWT.git)`
 2. Navigrate to the working directory `cd BookAPI_JWT`
 3. Open the project from the code editor `code .` or `atom .`
 4. Create virtual environment `python -m venv env`
@@ -159,10 +147,7 @@ Contact Us For any questions or feedback, please contact:
 <p align="left">Charles Walton</p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/cwalton1335"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<a href="mailto:cwalton1335@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
+  <a href="https://www.linkedin.com/in/cwalton1335"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="mailto:cwalton1335@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 ##
 Made with ❤️ and Django-Python
