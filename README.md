@@ -54,8 +54,8 @@ Represents a course related to an author.
 - **created_at**: DateTimeField - Timestamp when the course record was created.
 
 <p align="left">
-  <a href="https://www.udemy.com/course/django-ecommerce-project-based-course-python-django-web-development/?referralCode=BAD74EA99BCC2E331D13" target="_blank"><img src="https://img.shields.io/badge/Udemy-5624D0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy"></a>
-</p><img src="https://github.com/dev-rathankumar/greatkart-pre-deploy/blob/main/media/greatkart-screenshot.jpg">
+  <a href="https://www.udemy.com/course/#" target="_blank"><img src="https://img.shields.io/badge/Udemy-5624D0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy"></a>
+</p><img src="https://github.com/cwalton133/Google_Auth_JWT/blob/master/JWT_Auth_Logo.png">
 
 # Setup Instructions
 
