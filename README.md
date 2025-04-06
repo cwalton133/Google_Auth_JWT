@@ -5,7 +5,7 @@
 
 # About The Project - BookAPI with JWT Authentication
 
-GreatKart is an eCommerce application built with Python Django This Django application serves as a Book API with JWT (JSON Web Token) authentication. It enables users to manage authors and courses efficiently, with features tailored for educational purposes.
+This Django application serves as a Book API with JWT (JSON Web Token) authentication. It enables users to manage authors and courses efficiently, with features tailored for educational purposes.
 
 ## Features
 
@@ -61,7 +61,7 @@ Represents a course related to an author.
 
 Follow these steps to set up the project locally:
 
-1. Clone the repository `git clone [https://github.com/cwalton133/Google_Auth_JWT.git/](https://github.com/cwalton133/Google_Auth_JWT.git)`
+1. Clone the repository `git clone [https://github.com/cwalton133/Google_Auth_JWT.git/]
 2. Navigrate to the working directory `cd BookAPI_JWT`
 3. Open the project from the code editor `code .` or `atom .`
 4. Create virtual environment `python -m venv env`
